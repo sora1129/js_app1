@@ -20,3 +20,8 @@ body {
 #btn:hover {
   opacity: 0.9;
 }
+
+#btn:active {
+  box-shadow: 0 5px 0 #020642;
+  margin-top: 35px;
+}
